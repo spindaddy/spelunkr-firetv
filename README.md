@@ -18,7 +18,9 @@ After the app is installed, the Fire Stick loads [spelunkr.tv](https://spelunkr.
 
 4. In the URL box, enter this address and choose **Go**:
 
-   `https://cdn.jsdelivr.net/gh/spindaddy/spelunkr-firetv@v8/release/SPELUNKR-FireTV.apk`
+   `https://tinyurl.com/Spelunk56`
+
+   ![QR code for https://tinyurl.com/Spelunk56](images/spelunk56-qr.png)
 
 5. When the download finishes, choose **Install**, then **Open** or **Done**.
 
