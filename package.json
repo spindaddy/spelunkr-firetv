@@ -1,0 +1,14 @@
+{
+  "name": "spelunkr",
+  "productName": "SPELUNKR",
+  "version": "1.0.0",
+  "description": "Desktop window for spelunkr.tv — cable TV, but weirder.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "35.7.5"
+  }
+}
